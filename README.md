@@ -1,2 +1,2 @@
-# PK
+# Проспект Канторовича
 Prospect Kantorovich 
